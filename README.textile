@@ -80,7 +80,7 @@ More info on capistrano-ext/multistage deployments can be found here: http://web
 
 h2. Uses the Database for Sessions
 
-Bort is setup to use the database to store sessions by default. 
+Bort is setup to use the database to store sesadsions by default. 
 
 h2. Misc 
 
